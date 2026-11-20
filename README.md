@@ -61,15 +61,6 @@
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="./profile-summary-card-output/dracula/0-profile-details.svg" width="90%" />
-
-<img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="45%" />
-<img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="45%" />
-
----
-
 ### Connect with Me
 
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
