@@ -75,6 +75,6 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_ID)
 
-📧 Email: your@email.com
+📧 Email: nmquan3108@gmail.com
 
 </div>
